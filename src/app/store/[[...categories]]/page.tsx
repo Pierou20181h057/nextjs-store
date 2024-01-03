@@ -1,3 +1,4 @@
+"user client"
 interface CategoryProps{
     params:{
         categories: string[],
